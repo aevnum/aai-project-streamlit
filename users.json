@@ -1,0 +1,16 @@
+[
+    {
+        "email": "kshitij@gmail.com",
+        "password": "Kshitij123",
+        "name": "Kshitij",
+        "mobile": "1234567890",
+        "dob": "01/09/2024"
+    },
+    {
+        "email": "jay@gmail.com",
+        "password": "Jay123456789",
+        "name": "Jay",
+        "mobile": "1234567890",
+        "dob": "03/09/2024"
+    }
+]
